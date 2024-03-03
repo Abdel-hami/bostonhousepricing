@@ -13,9 +13,5 @@ conda create -p venv python==3.7 -y
 2- creat requirements.txt and install it, pip install - r req..
 3- git config --global user.name "ur name"
 git config --global user.email ""
-4 - git add . adding all files
-5- git commmit -m ""
-6- git push
-7- git push origin main
 
 
